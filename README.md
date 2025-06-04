@@ -45,4 +45,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/poojareddy005/lc_solutions/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/poojareddy005/lc_solutions/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/poojareddy005/lc_solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
