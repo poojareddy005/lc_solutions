@@ -5,6 +5,8 @@ class Solution:
             return
         if(open>n):
             return
+        if(ind>n*2):
+            return
         self.generate(ind+1,curr+"(",res,open+1,close,n)
         if(open>close):
             self.generate(ind+1,curr+")",res,open,close+1,n)
