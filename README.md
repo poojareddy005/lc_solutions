@@ -51,6 +51,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/poojareddy005/lc_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/poojareddy005/lc_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/poojareddy005/lc_solutions/tree/master/0040-combination-sum-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/poojareddy005/lc_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,4 +70,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/poojareddy005/lc_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/poojareddy005/lc_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
