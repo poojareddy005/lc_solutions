@@ -17,6 +17,7 @@
 | [0141-linked-list-cycle](https://github.com/poojareddy005/lc_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/poojareddy005/lc_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/poojareddy005/lc_solutions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/poojareddy005/lc_solutions/tree/master/0189-rotate-array) |
 | [0908-middle-of-the-linked-list](https://github.com/poojareddy005/lc_solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/poojareddy005/lc_solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/poojareddy005/lc_solutions/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/poojareddy005/lc_solutions/tree/master/0189-rotate-array) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +55,7 @@
 | [0040-combination-sum-ii](https://github.com/poojareddy005/lc_solutions/tree/master/0040-combination-sum-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/poojareddy005/lc_solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/poojareddy005/lc_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/poojareddy005/lc_solutions/tree/master/0189-rotate-array) |
 ## Backtracking
 |  |
 | ------- |
